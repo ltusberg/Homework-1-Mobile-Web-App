@@ -1,2 +1,2 @@
 # Homework1-Mobile-Web-App
-Homework Asognment 1
+Homework Assignment 1
